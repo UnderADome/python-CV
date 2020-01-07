@@ -4,14 +4,16 @@ PSNR是最普遍、最广泛使用的评价画质的客观测量方法，但是P
 这种现象也是因为人眼对于误差的敏感度并不是绝对的而造成的，人感知的结果会受到许多因素的影响而产生变化（eg：人眼对空间频率较低的对比差异敏感度较高，人眼对亮度对比差异的敏感度较色度高，人眼对一个区域的感知结果会受到其周围邻近区域的影响）
 
 >参考：<br/>
-https://github.com/magonzalezc/PSNRtool
+https://github.com/magonzalezc/PSNRtool    <br/>
 https://baike.baidu.com/item/psnr#2
 
 
 >PSNR和SNR：<br/>
-https://www.cnblogs.com/qrlozte/p/5340216.html
-https://blog.csdn.net/Aoulun/article/details/79007902
-https://blog.csdn.net/lien0906/article/details/30059747
+https://www.cnblogs.com/qrlozte/p/5340216.html     <br/>
+https://blog.csdn.net/Aoulun/article/details/79007902         <br/>
+https://blog.csdn.net/lien0906/article/details/30059747      
+
+<br/>
 
 # PSNRtool
 
