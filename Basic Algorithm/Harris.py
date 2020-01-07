@@ -63,7 +63,7 @@ def plot_harris_points(image, filtered_coords):
     show()
 
 
-im = array(Image.open('test.jpg').convert('L'))
+im = array(Image.open(r'C:\Users\mushi\Desktop\简历.jpg').convert('L'))
 harrism = compute_harris_response(im)
 filtered_coords = get_harris_points(harrism, 6)
 plot_harris_points(im, filtered_coords)
